@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\shreelipi_gujarati_typewriter.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_c3330c88ee6990635fa881ff4c374c2c</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\shreelipi_gujarati_typewriter.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8fdeca1e2c14b5c9bd2d1cdcaa4fc0fa</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\shreelipi_gujarati_typewriter.kps</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_72f3ca4752fca4d9acbda8026284ded6</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\shreelipi_gujarati_typewriter.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_56b9481433f4ab29a39054b9b132e44f</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\shreejlipi_guj_typewriter.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>SHREE-GUJ-0768|12|   |0</DebugFont>
+        <CodeFont>Consolas|10|   |0</CodeFont>
+        <CharFont>SHREE-GUJ-0768|12|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_2edff4d2e47021d5012cff61fd1b0a25</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\shreelipi_gujarati_typewriter.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_e621bb857887291274ff9f4b0a2f29d9</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\..\build\shreelipi_gujarati_typewriter.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8e4894003baa1ddb835facd7b2bfa24e</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\..\build\shreelipi_gujarati_typewriter.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_4eab9f9688304cef1c1117b16e214ee7</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\..\build\shreelipi_gujarati_typewriter.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>shreejlipi_guj_typewriter.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\shreejlipi_guj_typewriter.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>shreelipi_gujarati_typewriter.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>H:\ketan\keyboard Layouts\shreelipi_gujarati_typewriter\source\shreelipi_gujarati_typewriter.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
